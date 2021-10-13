@@ -30,9 +30,8 @@ I am upcoming optimistic engineering undergraduate in CSE with  specialization i
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=satya117&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satya117)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=satya117)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satya117)  
 
 ![Profile views](https://gpvc.arturio.dev/satya117)  
