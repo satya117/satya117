@@ -4,7 +4,7 @@
 I am upcoming optimistic engineering undergraduate in CSE with  specialization in cybersecurity from [SRM Institute of Science and Technology](https://www.srmist.edu.in). 
 
 - 🌱 I’m currently learning DSA 
-- 👯 I’m looking to collaborate on Data Science Projects 
+- 👯 I’m looking to collaborate on Python Projects 
 - 📫 How to reach me: satyapusala175@gmail.com 
 
 
