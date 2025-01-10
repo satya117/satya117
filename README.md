@@ -1,10 +1,17 @@
 ## Welcome
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGPQReUwGKMSQ/profile-displaybackgroundimage-shrink_350_1400/0/1631547952040?e=1637193600&v=beta&t=KHHZqOiDUoCHvU9fUaBTd1prDEK5xAx1xMfLH-z6bp4)
 
-I am upcoming optimistic engineering undergraduate in CSE with  specialization in cybersecurity from [SRM Institute of Science and Technology](https://www.srmist.edu.in). 
+Hi there, I'm Satya! 👋
 
-- 🌱 I’m currently learning DSA 
-- 👯 I’m looking to collaborate on Python Projects 
+I'm Satya Vani Pusala, but you can call me Satya—it's the name everyone prefers! 😊 I’m a Software Analyst at Bounteous, where I work as a Hybrid App Developer, building cross-platform applications using Angular and Ionic.I graduated with a degree in CSE (Computer Science and Engineering), specializing in Cybersecurity, from SRM Institute of Science and Technology.
+
+- 🌱 Current Focus:
+  <ul>
+   <li>Enhancing my programming skills by exploring new languages and frameworks.</li>
+   <li>Learning about AI and its applications in software development.</li>
+   <li>Continuously improving my knowledge in data science, and data visualization.</li>
+  </ul>
+- 👯 I’m looking to collaborate on Web Development Projects 
 - 📫 How to reach me: satyapusala175@gmail.com 
 
 
@@ -29,11 +36,4 @@ I am upcoming optimistic engineering undergraduate in CSE with  specialization i
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satya117&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satya117)  
-
-![Profile views](https://gpvc.arturio.dev/satya117)  
+ 
